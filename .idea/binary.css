@@ -1,0 +1,9 @@
+*{
+    font-size: 1.1em;
+}
+table, td, tr{
+    border: 1px solid black;
+}
+.binary{
+    cursor: pointer;
+}
